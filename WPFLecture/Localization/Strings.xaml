@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WPFLecture.Localization"
+                    xmlns:v  ="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="rProjectName">WPF LECTURE</v:String>
+    <v:String x:Key="rCopyright">© Artem Grigoryan 2018</v:String>
+    <v:String x:Key="rNumberA">Number A</v:String>
+    <v:String x:Key="rNumberB">Number B</v:String>
+    <v:String x:Key="rSum">Sum result</v:String>
+    <v:String x:Key="rDivide">Divide</v:String>
+    <v:String x:Key="rBack">Back</v:String>
+</ResourceDictionary>
